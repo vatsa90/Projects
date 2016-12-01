@@ -1,2 +1,2 @@
 # Projects
-A collection of all my projects' code files
+A collection of all my projects' codes
